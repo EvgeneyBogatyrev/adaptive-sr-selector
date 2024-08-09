@@ -1,0 +1,6302 @@
+{
+    "aomenc@child@ahq-11@bitrate=1456.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@ahq-11@bitrate=459.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@ahq-11@bitrate=865.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@BasicVSR@bitrate=1456.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@BasicVSR@bitrate=459.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@BasicVSR@bitrate=865.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@comisr@bitrate=1456.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@comisr@bitrate=459.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@comisr@bitrate=865.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@only_compressed@bitrate=1535.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@only_compressed@bitrate=525.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@only_compressed@bitrate=978.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@RBPN@bitrate=1456.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@RBPN@bitrate=459.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@RBPN@bitrate=865.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@Real-ESRGAN@bitrate=1456.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@Real-ESRGAN@bitrate=459.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@Real-ESRGAN@bitrate=865.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@RealSR@bitrate=1456.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@RealSR@bitrate=459.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@RealSR@bitrate=865.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@SOF-VSR-BI@bitrate=1456.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@SOF-VSR-BI@bitrate=459.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@SOF-VSR-BI@bitrate=865.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@SwinIR@bitrate=1456.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@SwinIR@bitrate=459.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@SwinIR@bitrate=865.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@VRT@bitrate=1456.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@VRT@bitrate=459.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@child@VRT@bitrate=865.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@colors@ahq-11@bitrate=1356.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@ahq-11@bitrate=326.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@ahq-11@bitrate=790.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@BasicVSR@bitrate=1356.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@BasicVSR@bitrate=326.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@BasicVSR@bitrate=790.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@comisr@bitrate=1356.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@comisr@bitrate=326.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@comisr@bitrate=790.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@only_compressed@bitrate=1329.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@only_compressed@bitrate=419.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@only_compressed@bitrate=794.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@RBPN@bitrate=1356.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@RBPN@bitrate=326.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@RBPN@bitrate=790.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@Real-ESRGAN@bitrate=1356.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@Real-ESRGAN@bitrate=326.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@Real-ESRGAN@bitrate=790.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@RealSR@bitrate=1356.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@RealSR@bitrate=326.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@RealSR@bitrate=790.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@SOF-VSR-BI@bitrate=1356.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@SOF-VSR-BI@bitrate=326.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@SOF-VSR-BI@bitrate=790.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@SwinIR@bitrate=1356.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@colors@SwinIR@bitrate=326.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@SwinIR@bitrate=790.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@VRT@bitrate=1356.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@VRT@bitrate=326.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@colors@VRT@bitrate=790.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@cuphead@ahq-11@bitrate=2466.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@ahq-11@bitrate=477.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@cuphead@ahq-11@bitrate=835.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@cuphead@BasicVSR@bitrate=2466.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@BasicVSR@bitrate=477.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@cuphead@BasicVSR@bitrate=835.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@comisr@bitrate=2466.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@comisr@bitrate=477.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@cuphead@comisr@bitrate=835.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@only_compressed@bitrate=1018.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@only_compressed@bitrate=1534.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@only_compressed@bitrate=618.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@RBPN@bitrate=2466.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@RBPN@bitrate=477.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@cuphead@RBPN@bitrate=835.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@cuphead@Real-ESRGAN@bitrate=2466.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@Real-ESRGAN@bitrate=477.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@cuphead@Real-ESRGAN@bitrate=835.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@RealSR@bitrate=2466.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@RealSR@bitrate=477.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@cuphead@RealSR@bitrate=835.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@SOF-VSR-BI@bitrate=2466.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@SOF-VSR-BI@bitrate=477.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@cuphead@SOF-VSR-BI@bitrate=835.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@SwinIR@bitrate=2466.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@SwinIR@bitrate=477.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@SwinIR@bitrate=835.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@VRT@bitrate=2466.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@cuphead@VRT@bitrate=477.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@cuphead@VRT@bitrate=835.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dancing@ahq-11@bitrate=1445.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@ahq-11@bitrate=462.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@ahq-11@bitrate=871.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@BasicVSR@bitrate=1445.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@BasicVSR@bitrate=462.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@BasicVSR@bitrate=871.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@comisr@bitrate=1445.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@comisr@bitrate=462.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@comisr@bitrate=871.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@only_compressed@bitrate=1610.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@only_compressed@bitrate=548.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@only_compressed@bitrate=994.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@RBPN@bitrate=1445.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@RBPN@bitrate=462.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@dancing@RBPN@bitrate=871.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@Real-ESRGAN@bitrate=1445.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@dancing@Real-ESRGAN@bitrate=462.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@dancing@Real-ESRGAN@bitrate=871.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@RealSR@bitrate=1445.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@RealSR@bitrate=462.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@RealSR@bitrate=871.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@SOF-VSR-BI@bitrate=1445.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@SOF-VSR-BI@bitrate=462.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@SOF-VSR-BI@bitrate=871.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@SwinIR@bitrate=1445.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@dancing@SwinIR@bitrate=462.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@SwinIR@bitrate=871.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@dancing@VRT@bitrate=1445.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@VRT@bitrate=462.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dancing@VRT@bitrate=871.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "aomenc@dontstarve@ahq-11@bitrate=1500.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@ahq-11@bitrate=472.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@ahq-11@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@BasicVSR@bitrate=1500.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@BasicVSR@bitrate=472.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@BasicVSR@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@comisr@bitrate=1500.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@comisr@bitrate=472.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@comisr@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@only_compressed@bitrate=1053.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@only_compressed@bitrate=1645.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@only_compressed@bitrate=556.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@RBPN@bitrate=1500.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@RBPN@bitrate=472.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@RBPN@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@Real-ESRGAN@bitrate=1500.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@Real-ESRGAN@bitrate=472.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@Real-ESRGAN@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@RealSR@bitrate=1500.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@RealSR@bitrate=472.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@RealSR@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@SOF-VSR-BI@bitrate=1500.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@SOF-VSR-BI@bitrate=472.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@SOF-VSR-BI@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@SwinIR@bitrate=1500.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@SwinIR@bitrate=472.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@SwinIR@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@VRT@bitrate=1500.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@dontstarve@VRT@bitrate=472.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@dontstarve@VRT@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@restaurant@ahq-11@bitrate=1560.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@restaurant@ahq-11@bitrate=375.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@restaurant@ahq-11@bitrate=836.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@restaurant@BasicVSR@bitrate=1560.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@BasicVSR@bitrate=375.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@BasicVSR@bitrate=836.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@comisr@bitrate=1560.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@restaurant@comisr@bitrate=375.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@restaurant@comisr@bitrate=836.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "aomenc@restaurant@only_compressed@bitrate=1427.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@only_compressed@bitrate=427.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@only_compressed@bitrate=807.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@RBPN@bitrate=1560.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@RBPN@bitrate=375.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@RBPN@bitrate=836.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@Real-ESRGAN@bitrate=1560.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@restaurant@Real-ESRGAN@bitrate=375.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@restaurant@Real-ESRGAN@bitrate=836.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@restaurant@RealSR@bitrate=1560.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@restaurant@RealSR@bitrate=375.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@restaurant@RealSR@bitrate=836.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@restaurant@SOF-VSR-BI@bitrate=1560.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@SOF-VSR-BI@bitrate=375.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@SOF-VSR-BI@bitrate=836.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@SwinIR@bitrate=1560.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "aomenc@restaurant@SwinIR@bitrate=375.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@restaurant@SwinIR@bitrate=836.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "aomenc@restaurant@VRT@bitrate=1560.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@VRT@bitrate=375.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "aomenc@restaurant@VRT@bitrate=836.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@child@ahq-11@bitrate=2730.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@ahq-11@bitrate=535.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@ahq-11@bitrate=889.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@BasicVSR@bitrate=2730.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@BasicVSR@bitrate=535.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@BasicVSR@bitrate=889.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@comisr@bitrate=2730.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@comisr@bitrate=535.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@comisr@bitrate=889.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@only_compressed@bitrate=1258.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@only_compressed@bitrate=2790.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@only_compressed@bitrate=687.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@RBPN@bitrate=2730.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@RBPN@bitrate=535.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@RBPN@bitrate=889.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@Real-ESRGAN@bitrate=2730.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@Real-ESRGAN@bitrate=535.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@Real-ESRGAN@bitrate=889.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@RealSR@bitrate=2730.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@RealSR@bitrate=535.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@RealSR@bitrate=889.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@SOF-VSR-BI@bitrate=2730.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@SOF-VSR-BI@bitrate=535.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@SOF-VSR-BI@bitrate=889.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@SwinIR@bitrate=2730.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@SwinIR@bitrate=535.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@SwinIR@bitrate=889.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@VRT@bitrate=2730.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@VRT@bitrate=535.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@child@VRT@bitrate=889.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@colors@ahq-11@bitrate=2294.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@ahq-11@bitrate=401.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@ahq-11@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@BasicVSR@bitrate=2294.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@BasicVSR@bitrate=401.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@BasicVSR@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@comisr@bitrate=2294.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@comisr@bitrate=401.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@comisr@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@only_compressed@bitrate=1236.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@only_compressed@bitrate=2027.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@only_compressed@bitrate=635.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@RBPN@bitrate=2294.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@RBPN@bitrate=401.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@RBPN@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@Real-ESRGAN@bitrate=2294.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@Real-ESRGAN@bitrate=401.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@Real-ESRGAN@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@RealSR@bitrate=2294.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@RealSR@bitrate=401.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@RealSR@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@SOF-VSR-BI@bitrate=2294.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@SOF-VSR-BI@bitrate=401.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@SOF-VSR-BI@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@SwinIR@bitrate=2294.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@SwinIR@bitrate=401.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@SwinIR@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@VRT@bitrate=2294.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@VRT@bitrate=401.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@colors@VRT@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@cuphead@ahq-11@bitrate=1782.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@ahq-11@bitrate=515.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@cuphead@ahq-11@bitrate=804.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@BasicVSR@bitrate=1782.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@BasicVSR@bitrate=515.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@cuphead@BasicVSR@bitrate=804.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@comisr@bitrate=1782.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@comisr@bitrate=515.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@cuphead@comisr@bitrate=804.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@only_compressed@bitrate=1118.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@only_compressed@bitrate=1658.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@only_compressed@bitrate=531.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@RBPN@bitrate=1782.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@RBPN@bitrate=515.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@cuphead@RBPN@bitrate=804.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@Real-ESRGAN@bitrate=1782.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@Real-ESRGAN@bitrate=515.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@cuphead@Real-ESRGAN@bitrate=804.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@RealSR@bitrate=1782.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@RealSR@bitrate=515.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@cuphead@RealSR@bitrate=804.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@cuphead@SOF-VSR-BI@bitrate=1782.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@SOF-VSR-BI@bitrate=515.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@SOF-VSR-BI@bitrate=804.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@SwinIR@bitrate=1782.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@SwinIR@bitrate=515.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@SwinIR@bitrate=804.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@VRT@bitrate=1782.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@cuphead@VRT@bitrate=515.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@cuphead@VRT@bitrate=804.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dancing@ahq-11@bitrate=2320.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@ahq-11@bitrate=586.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@ahq-11@bitrate=941.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@BasicVSR@bitrate=2320.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@BasicVSR@bitrate=586.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@BasicVSR@bitrate=941.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@comisr@bitrate=2320.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@comisr@bitrate=586.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@comisr@bitrate=941.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@only_compressed@bitrate=2269.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@only_compressed@bitrate=489.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@only_compressed@bitrate=789.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@RBPN@bitrate=2320.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@RBPN@bitrate=586.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@RBPN@bitrate=941.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@Real-ESRGAN@bitrate=2320.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@dancing@Real-ESRGAN@bitrate=586.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@Real-ESRGAN@bitrate=941.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@RealSR@bitrate=2320.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@RealSR@bitrate=586.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@RealSR@bitrate=941.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@SOF-VSR-BI@bitrate=2320.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@SOF-VSR-BI@bitrate=586.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@SOF-VSR-BI@bitrate=941.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@SwinIR@bitrate=2320.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@dancing@SwinIR@bitrate=586.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@SwinIR@bitrate=941.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@VRT@bitrate=2320.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@VRT@bitrate=586.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dancing@VRT@bitrate=941.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "uavs3e@dontstarve@ahq-11@bitrate=1155.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@dontstarve@ahq-11@bitrate=2900.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@dontstarve@ahq-11@bitrate=400.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@dontstarve@BasicVSR@bitrate=1155.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@BasicVSR@bitrate=2900.mp4": [
+        [
+            "Real-ESRGAN",
+            "only-codec",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@dontstarve@BasicVSR@bitrate=400.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@comisr@bitrate=1155.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@comisr@bitrate=2900.mp4": [
+        [
+            "Real-ESRGAN",
+            "only-codec",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@dontstarve@comisr@bitrate=400.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@only_compressed@bitrate=1053.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@only_compressed@bitrate=1795.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@only_compressed@bitrate=619.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@RBPN@bitrate=1155.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@RBPN@bitrate=2900.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@RBPN@bitrate=400.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@Real-ESRGAN@bitrate=1155.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@dontstarve@Real-ESRGAN@bitrate=2900.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@dontstarve@Real-ESRGAN@bitrate=400.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@dontstarve@RealSR@bitrate=1155.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@dontstarve@RealSR@bitrate=2900.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@RealSR@bitrate=400.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@SOF-VSR-BI@bitrate=1155.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@dontstarve@SOF-VSR-BI@bitrate=2900.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@SOF-VSR-BI@bitrate=400.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@SwinIR@bitrate=1155.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@SwinIR@bitrate=2900.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@SwinIR@bitrate=400.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@dontstarve@VRT@bitrate=1155.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@VRT@bitrate=2900.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@dontstarve@VRT@bitrate=400.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@restaurant@ahq-11@bitrate=2066.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@restaurant@ahq-11@bitrate=390.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@restaurant@ahq-11@bitrate=857.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@restaurant@BasicVSR@bitrate=2066.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@restaurant@BasicVSR@bitrate=390.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@BasicVSR@bitrate=857.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@comisr@bitrate=2066.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@restaurant@comisr@bitrate=390.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@restaurant@comisr@bitrate=857.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@restaurant@only_compressed@bitrate=1360.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@only_compressed@bitrate=467.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@only_compressed@bitrate=911.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@RBPN@bitrate=2066.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@RBPN@bitrate=390.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@RBPN@bitrate=857.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@Real-ESRGAN@bitrate=2066.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@restaurant@Real-ESRGAN@bitrate=390.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@restaurant@Real-ESRGAN@bitrate=857.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@restaurant@RealSR@bitrate=2066.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@restaurant@RealSR@bitrate=390.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "uavs3e@restaurant@RealSR@bitrate=857.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "uavs3e@restaurant@SOF-VSR-BI@bitrate=2066.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@SOF-VSR-BI@bitrate=390.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@SOF-VSR-BI@bitrate=857.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@SwinIR@bitrate=2066.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@restaurant@SwinIR@bitrate=390.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@restaurant@SwinIR@bitrate=857.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "uavs3e@restaurant@VRT@bitrate=2066.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@VRT@bitrate=390.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "uavs3e@restaurant@VRT@bitrate=857.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@child@ahq-11@bitrate=1425.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@ahq-11@bitrate=552.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@ahq-11@bitrate=826.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@BasicVSR@bitrate=1425.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@BasicVSR@bitrate=552.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@BasicVSR@bitrate=826.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@comisr@bitrate=1425.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@comisr@bitrate=552.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@comisr@bitrate=826.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@DBVSR@bitrate=1425.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@DBVSR@bitrate=552.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@DBVSR@bitrate=826.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@LGFN@bitrate=1425.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@LGFN@bitrate=552.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@LGFN@bitrate=826.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@only_compressed@bitrate=1824.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@only_compressed@bitrate=549.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@only_compressed@bitrate=892.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@RBPN@bitrate=1425.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@RBPN@bitrate=552.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@RBPN@bitrate=826.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@SOF-VSR-BI@bitrate=1425.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@SOF-VSR-BI@bitrate=552.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@SOF-VSR-BI@bitrate=826.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@SwinIR@bitrate=1425.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@SwinIR@bitrate=552.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@SwinIR@bitrate=826.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@VRT@bitrate=1425.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@VRT@bitrate=552.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@child@VRT@bitrate=826.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@colors@ahq-11@bitrate=1371.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@ahq-11@bitrate=3434.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@ahq-11@bitrate=664.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@BasicVSR@bitrate=1371.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@BasicVSR@bitrate=3434.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@BasicVSR@bitrate=664.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@comisr@bitrate=1371.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@comisr@bitrate=3434.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@comisr@bitrate=664.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@DBVSR@bitrate=1371.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@DBVSR@bitrate=3434.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@DBVSR@bitrate=664.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@LGFN@bitrate=1371.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@LGFN@bitrate=3434.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@LGFN@bitrate=664.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@only_compressed@bitrate=2149.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@only_compressed@bitrate=567.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@only_compressed@bitrate=978.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@RBPN@bitrate=1371.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@RBPN@bitrate=3434.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@RBPN@bitrate=664.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@SOF-VSR-BI@bitrate=1371.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@SOF-VSR-BI@bitrate=3434.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@SOF-VSR-BI@bitrate=664.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@SwinIR@bitrate=1371.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "vvenc@colors@SwinIR@bitrate=3434.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@SwinIR@bitrate=664.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@VRT@bitrate=1371.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@VRT@bitrate=3434.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@colors@VRT@bitrate=664.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@cuphead@ahq-11@bitrate=1694.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@ahq-11@bitrate=584.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@cuphead@ahq-11@bitrate=940.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@BasicVSR@bitrate=1694.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@BasicVSR@bitrate=584.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@cuphead@BasicVSR@bitrate=940.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@comisr@bitrate=1694.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@comisr@bitrate=584.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@comisr@bitrate=940.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@DBVSR@bitrate=1694.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@DBVSR@bitrate=584.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "vvenc@cuphead@DBVSR@bitrate=940.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@LGFN@bitrate=1694.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@LGFN@bitrate=584.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "vvenc@cuphead@LGFN@bitrate=940.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@only_compressed@bitrate=1764.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@only_compressed@bitrate=591.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@only_compressed@bitrate=963.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@RBPN@bitrate=1694.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@RBPN@bitrate=584.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@cuphead@RBPN@bitrate=940.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@SOF-VSR-BI@bitrate=1694.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@SOF-VSR-BI@bitrate=584.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@SOF-VSR-BI@bitrate=940.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@SwinIR@bitrate=1694.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@SwinIR@bitrate=584.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@SwinIR@bitrate=940.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@VRT@bitrate=1694.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@cuphead@VRT@bitrate=584.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@cuphead@VRT@bitrate=940.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dancing@ahq-11@bitrate=1438.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@ahq-11@bitrate=572.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@ahq-11@bitrate=844.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@BasicVSR@bitrate=1438.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@BasicVSR@bitrate=572.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@BasicVSR@bitrate=844.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@comisr@bitrate=1438.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@comisr@bitrate=572.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@comisr@bitrate=844.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@DBVSR@bitrate=1438.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@DBVSR@bitrate=572.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@DBVSR@bitrate=844.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@LGFN@bitrate=1438.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@LGFN@bitrate=572.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@LGFN@bitrate=844.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@only_compressed@bitrate=1813.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@only_compressed@bitrate=571.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@only_compressed@bitrate=914.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@RBPN@bitrate=1438.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@RBPN@bitrate=572.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@RBPN@bitrate=844.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@SOF-VSR-BI@bitrate=1438.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@SOF-VSR-BI@bitrate=572.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@SOF-VSR-BI@bitrate=844.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@SwinIR@bitrate=1438.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@dancing@SwinIR@bitrate=572.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@SwinIR@bitrate=844.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@dancing@VRT@bitrate=1438.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@VRT@bitrate=572.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dancing@VRT@bitrate=844.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "vvenc@dontstarve@ahq-11@bitrate=1470.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@dontstarve@ahq-11@bitrate=573.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@dontstarve@ahq-11@bitrate=891.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "vvenc@dontstarve@BasicVSR@bitrate=1470.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@BasicVSR@bitrate=573.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@BasicVSR@bitrate=891.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@comisr@bitrate=1470.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@comisr@bitrate=573.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@comisr@bitrate=891.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@DBVSR@bitrate=1470.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@DBVSR@bitrate=573.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@DBVSR@bitrate=891.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@LGFN@bitrate=1470.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@LGFN@bitrate=573.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@LGFN@bitrate=891.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@only_compressed@bitrate=1832.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@only_compressed@bitrate=582.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@only_compressed@bitrate=939.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@RBPN@bitrate=1470.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@RBPN@bitrate=573.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@RBPN@bitrate=891.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@SOF-VSR-BI@bitrate=1470.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@SOF-VSR-BI@bitrate=573.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@SOF-VSR-BI@bitrate=891.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@SwinIR@bitrate=1470.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@SwinIR@bitrate=573.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@SwinIR@bitrate=891.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@VRT@bitrate=1470.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@VRT@bitrate=573.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@dontstarve@VRT@bitrate=891.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@restaurant@ahq-11@bitrate=1854.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "vvenc@restaurant@ahq-11@bitrate=514.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "vvenc@restaurant@ahq-11@bitrate=773.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "vvenc@restaurant@BasicVSR@bitrate=1854.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@BasicVSR@bitrate=514.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@BasicVSR@bitrate=773.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@comisr@bitrate=1854.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "vvenc@restaurant@comisr@bitrate=514.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "vvenc@restaurant@comisr@bitrate=773.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "vvenc@restaurant@DBVSR@bitrate=1854.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@DBVSR@bitrate=514.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@DBVSR@bitrate=773.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@LGFN@bitrate=1854.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@LGFN@bitrate=514.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@LGFN@bitrate=773.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@only_compressed@bitrate=1041.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@only_compressed@bitrate=2066.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@only_compressed@bitrate=614.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@RBPN@bitrate=1854.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@RBPN@bitrate=514.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@RBPN@bitrate=773.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@SOF-VSR-BI@bitrate=1854.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@SOF-VSR-BI@bitrate=514.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@SOF-VSR-BI@bitrate=773.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@SwinIR@bitrate=1854.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@restaurant@SwinIR@bitrate=514.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@restaurant@SwinIR@bitrate=773.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "vvenc@restaurant@VRT@bitrate=1854.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@VRT@bitrate=514.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "vvenc@restaurant@VRT@bitrate=773.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@child@ahq-11@bitrate=1895.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@ahq-11@bitrate=541.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@ahq-11@bitrate=919.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@BasicVSR@bitrate=1895.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@BasicVSR@bitrate=541.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@BasicVSR@bitrate=919.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@comisr@bitrate=1895.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@comisr@bitrate=541.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@comisr@bitrate=919.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@only_compressed@bitrate=1916.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@only_compressed@bitrate=634.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@only_compressed@bitrate=992.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@RBPN@bitrate=1895.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@RBPN@bitrate=541.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@RBPN@bitrate=919.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@Real-ESRGAN@bitrate=1895.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@Real-ESRGAN@bitrate=541.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@Real-ESRGAN@bitrate=919.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@RealSR@bitrate=1895.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@RealSR@bitrate=541.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@RealSR@bitrate=919.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@SOF-VSR-BI@bitrate=1895.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@SOF-VSR-BI@bitrate=541.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@SOF-VSR-BI@bitrate=919.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@SwinIR@bitrate=1895.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@SwinIR@bitrate=541.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@SwinIR@bitrate=919.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@VRT@bitrate=1895.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@VRT@bitrate=541.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@child@VRT@bitrate=919.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@colors@ahq-11@bitrate=1842.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@ahq-11@bitrate=497.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@ahq-11@bitrate=881.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@BasicVSR@bitrate=1842.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@BasicVSR@bitrate=497.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@BasicVSR@bitrate=881.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@comisr@bitrate=1842.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@comisr@bitrate=497.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@comisr@bitrate=881.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@only_compressed@bitrate=2052.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@only_compressed@bitrate=434.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@only_compressed@bitrate=829.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@RBPN@bitrate=1842.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@RBPN@bitrate=497.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@RBPN@bitrate=881.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@Real-ESRGAN@bitrate=1842.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@Real-ESRGAN@bitrate=497.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@Real-ESRGAN@bitrate=881.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@RealSR@bitrate=1842.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@RealSR@bitrate=497.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@RealSR@bitrate=881.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@SOF-VSR-BI@bitrate=1842.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@SOF-VSR-BI@bitrate=497.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@SOF-VSR-BI@bitrate=881.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@SwinIR@bitrate=1842.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@SwinIR@bitrate=497.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@SwinIR@bitrate=881.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@VRT@bitrate=1842.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@VRT@bitrate=497.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@colors@VRT@bitrate=881.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@ahq-11@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@ahq-11@bitrate=545.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@ahq-11@bitrate=911.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@BasicVSR@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@BasicVSR@bitrate=545.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@BasicVSR@bitrate=911.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@comisr@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@comisr@bitrate=545.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@comisr@bitrate=911.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@only_compressed@bitrate=1107.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@only_compressed@bitrate=1998.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@only_compressed@bitrate=736.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@RBPN@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@RBPN@bitrate=545.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@RBPN@bitrate=911.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@Real-ESRGAN@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@Real-ESRGAN@bitrate=545.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@Real-ESRGAN@bitrate=911.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@RealSR@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@RealSR@bitrate=545.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@RealSR@bitrate=911.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@SOF-VSR-BI@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@SOF-VSR-BI@bitrate=545.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@SOF-VSR-BI@bitrate=911.mp4": [
+        [
+            "Real-ESRGAN",
+            "only-codec",
+            "RealSR"
+        ]
+    ],
+    "x264@cuphead@SwinIR@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@SwinIR@bitrate=545.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@SwinIR@bitrate=911.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@cuphead@VRT@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@VRT@bitrate=545.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@cuphead@VRT@bitrate=911.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dancing@ahq-11@bitrate=1765.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@ahq-11@bitrate=516.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@ahq-11@bitrate=864.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@BasicVSR@bitrate=1765.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@BasicVSR@bitrate=516.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@BasicVSR@bitrate=864.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@comisr@bitrate=1765.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@comisr@bitrate=516.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@comisr@bitrate=864.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@only_compressed@bitrate=1830.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@only_compressed@bitrate=590.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@only_compressed@bitrate=953.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@RBPN@bitrate=1765.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@RBPN@bitrate=516.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@RBPN@bitrate=864.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@Real-ESRGAN@bitrate=1765.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@Real-ESRGAN@bitrate=516.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@Real-ESRGAN@bitrate=864.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "x264@dancing@RealSR@bitrate=1765.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@RealSR@bitrate=516.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@RealSR@bitrate=864.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@SOF-VSR-BI@bitrate=1765.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@SOF-VSR-BI@bitrate=516.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@SOF-VSR-BI@bitrate=864.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@SwinIR@bitrate=1765.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "x264@dancing@SwinIR@bitrate=516.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@SwinIR@bitrate=864.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@VRT@bitrate=1765.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@VRT@bitrate=516.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dancing@VRT@bitrate=864.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x264@dontstarve@ahq-11@bitrate=1945.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@ahq-11@bitrate=569.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@ahq-11@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@BasicVSR@bitrate=1945.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@BasicVSR@bitrate=569.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@BasicVSR@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@comisr@bitrate=1945.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@comisr@bitrate=569.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@comisr@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@only_compressed@bitrate=1041.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@only_compressed@bitrate=2017.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@only_compressed@bitrate=639.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@RBPN@bitrate=1945.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@RBPN@bitrate=569.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@RBPN@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@Real-ESRGAN@bitrate=1945.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@Real-ESRGAN@bitrate=569.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@Real-ESRGAN@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@RealSR@bitrate=1945.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@RealSR@bitrate=569.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@RealSR@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@SOF-VSR-BI@bitrate=1945.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@SOF-VSR-BI@bitrate=569.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@SOF-VSR-BI@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@SwinIR@bitrate=1945.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@SwinIR@bitrate=569.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@SwinIR@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@VRT@bitrate=1945.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@dontstarve@VRT@bitrate=569.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@dontstarve@VRT@bitrate=957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@restaurant@ahq-11@bitrate=1841.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x264@restaurant@ahq-11@bitrate=517.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x264@restaurant@ahq-11@bitrate=902.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x264@restaurant@BasicVSR@bitrate=1841.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@BasicVSR@bitrate=517.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@BasicVSR@bitrate=902.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@comisr@bitrate=1841.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@comisr@bitrate=517.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x264@restaurant@comisr@bitrate=902.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@only_compressed@bitrate=1879.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@only_compressed@bitrate=491.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@only_compressed@bitrate=887.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@RBPN@bitrate=1841.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@RBPN@bitrate=517.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@RBPN@bitrate=902.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@Real-ESRGAN@bitrate=1841.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@restaurant@Real-ESRGAN@bitrate=517.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@restaurant@Real-ESRGAN@bitrate=902.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@restaurant@RealSR@bitrate=1841.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@restaurant@RealSR@bitrate=517.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x264@restaurant@RealSR@bitrate=902.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x264@restaurant@SOF-VSR-BI@bitrate=1841.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@SOF-VSR-BI@bitrate=517.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@SOF-VSR-BI@bitrate=902.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@SwinIR@bitrate=1841.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@restaurant@SwinIR@bitrate=517.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@restaurant@SwinIR@bitrate=902.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x264@restaurant@VRT@bitrate=1841.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@VRT@bitrate=517.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x264@restaurant@VRT@bitrate=902.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@child@ahq-11@bitrate=1769.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@ahq-11@bitrate=519.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@ahq-11@bitrate=870.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@BasicVSR@bitrate=1769.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@BasicVSR@bitrate=519.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@BasicVSR@bitrate=870.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@comisr@bitrate=1769.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@comisr@bitrate=519.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@comisr@bitrate=870.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@only_compressed@bitrate=1760.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@only_compressed@bitrate=536.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@only_compressed@bitrate=867.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@RBPN@bitrate=1769.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@RBPN@bitrate=519.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@RBPN@bitrate=870.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@Real-ESRGAN@bitrate=1769.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@Real-ESRGAN@bitrate=519.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@Real-ESRGAN@bitrate=870.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@RealSR@bitrate=1769.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@RealSR@bitrate=519.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@RealSR@bitrate=870.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@SOF-VSR-BI@bitrate=1769.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@SOF-VSR-BI@bitrate=519.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@SOF-VSR-BI@bitrate=870.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@SwinIR@bitrate=1769.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@SwinIR@bitrate=519.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@SwinIR@bitrate=870.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@VRT@bitrate=1769.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@VRT@bitrate=519.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@child@VRT@bitrate=870.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@colors@ahq-11@bitrate=1834.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@ahq-11@bitrate=490.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@ahq-11@bitrate=866.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@BasicVSR@bitrate=1834.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@BasicVSR@bitrate=490.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@BasicVSR@bitrate=866.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@comisr@bitrate=1834.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@comisr@bitrate=490.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@comisr@bitrate=866.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@only_compressed@bitrate=1787.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@only_compressed@bitrate=463.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@only_compressed@bitrate=831.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@RBPN@bitrate=1834.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@RBPN@bitrate=490.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@RBPN@bitrate=866.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@Real-ESRGAN@bitrate=1834.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@Real-ESRGAN@bitrate=490.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@Real-ESRGAN@bitrate=866.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@RealSR@bitrate=1834.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@RealSR@bitrate=490.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@RealSR@bitrate=866.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@SOF-VSR-BI@bitrate=1834.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@SOF-VSR-BI@bitrate=490.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@SOF-VSR-BI@bitrate=866.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@SwinIR@bitrate=1834.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@SwinIR@bitrate=490.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@SwinIR@bitrate=866.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@VRT@bitrate=1834.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@VRT@bitrate=490.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@colors@VRT@bitrate=866.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@ahq-11@bitrate=1863.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@ahq-11@bitrate=558.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@ahq-11@bitrate=921.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@BasicVSR@bitrate=1863.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@BasicVSR@bitrate=558.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x265@cuphead@BasicVSR@bitrate=921.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@comisr@bitrate=1863.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@comisr@bitrate=558.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@comisr@bitrate=921.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@only_compressed@bitrate=1773.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@only_compressed@bitrate=625.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x265@cuphead@only_compressed@bitrate=938.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@RBPN@bitrate=1863.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@RBPN@bitrate=558.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@RBPN@bitrate=921.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@Real-ESRGAN@bitrate=1863.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@Real-ESRGAN@bitrate=558.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@Real-ESRGAN@bitrate=921.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@RealSR@bitrate=1863.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@RealSR@bitrate=558.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@RealSR@bitrate=921.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@SOF-VSR-BI@bitrate=1863.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@SOF-VSR-BI@bitrate=558.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@SOF-VSR-BI@bitrate=921.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@SwinIR@bitrate=1863.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@SwinIR@bitrate=558.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@cuphead@SwinIR@bitrate=921.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@VRT@bitrate=1863.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@cuphead@VRT@bitrate=558.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x265@cuphead@VRT@bitrate=921.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dancing@ahq-11@bitrate=1736.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@ahq-11@bitrate=522.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@ahq-11@bitrate=866.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@BasicVSR@bitrate=1736.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@BasicVSR@bitrate=522.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@BasicVSR@bitrate=866.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@comisr@bitrate=1736.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@comisr@bitrate=522.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@comisr@bitrate=866.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@only_compressed@bitrate=1676.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@only_compressed@bitrate=524.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@only_compressed@bitrate=851.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@RBPN@bitrate=1736.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@RBPN@bitrate=522.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@RBPN@bitrate=866.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@Real-ESRGAN@bitrate=1736.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "x265@dancing@Real-ESRGAN@bitrate=522.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@Real-ESRGAN@bitrate=866.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@RealSR@bitrate=1736.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@RealSR@bitrate=522.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@RealSR@bitrate=866.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@SOF-VSR-BI@bitrate=1736.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@SOF-VSR-BI@bitrate=522.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@SOF-VSR-BI@bitrate=866.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@SwinIR@bitrate=1736.mp4": [
+        [
+            "SwinIR",
+            "Real-ESRGAN",
+            "ahq-11"
+        ]
+    ],
+    "x265@dancing@SwinIR@bitrate=522.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@SwinIR@bitrate=866.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@VRT@bitrate=1736.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@VRT@bitrate=522.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dancing@VRT@bitrate=866.mp4": [
+        [
+            "SwinIR",
+            "ahq-11",
+            "comisr"
+        ]
+    ],
+    "x265@dontstarve@ahq-11@bitrate=1957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@ahq-11@bitrate=574.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@ahq-11@bitrate=966.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@BasicVSR@bitrate=1957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@BasicVSR@bitrate=574.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@BasicVSR@bitrate=966.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@comisr@bitrate=1957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@comisr@bitrate=574.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@comisr@bitrate=966.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@only_compressed@bitrate=1859.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@only_compressed@bitrate=582.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@only_compressed@bitrate=945.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@RBPN@bitrate=1957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@RBPN@bitrate=574.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@RBPN@bitrate=966.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@Real-ESRGAN@bitrate=1957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@Real-ESRGAN@bitrate=574.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@Real-ESRGAN@bitrate=966.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@RealSR@bitrate=1957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@RealSR@bitrate=574.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@RealSR@bitrate=966.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@SOF-VSR-BI@bitrate=1957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@SOF-VSR-BI@bitrate=574.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@SOF-VSR-BI@bitrate=966.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@SwinIR@bitrate=1957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@SwinIR@bitrate=574.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@SwinIR@bitrate=966.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@dontstarve@VRT@bitrate=1957.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@VRT@bitrate=574.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@dontstarve@VRT@bitrate=966.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@restaurant@ahq-11@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x265@restaurant@ahq-11@bitrate=522.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x265@restaurant@ahq-11@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x265@restaurant@BasicVSR@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@BasicVSR@bitrate=522.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@BasicVSR@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@comisr@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@comisr@bitrate=522.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x265@restaurant@comisr@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@only_compressed@bitrate=1896.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@only_compressed@bitrate=504.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@only_compressed@bitrate=878.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@RBPN@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@RBPN@bitrate=522.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@RBPN@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@Real-ESRGAN@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@restaurant@Real-ESRGAN@bitrate=522.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@restaurant@Real-ESRGAN@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@restaurant@RealSR@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@restaurant@RealSR@bitrate=522.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "RealSR"
+        ]
+    ],
+    "x265@restaurant@RealSR@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "SwinIR"
+        ]
+    ],
+    "x265@restaurant@SOF-VSR-BI@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@SOF-VSR-BI@bitrate=522.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@SOF-VSR-BI@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@SwinIR@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@restaurant@SwinIR@bitrate=522.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@restaurant@SwinIR@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "RealSR",
+            "only-codec"
+        ]
+    ],
+    "x265@restaurant@VRT@bitrate=1851.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@VRT@bitrate=522.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ],
+    "x265@restaurant@VRT@bitrate=904.mp4": [
+        [
+            "Real-ESRGAN",
+            "SwinIR",
+            "ahq-11"
+        ]
+    ]
+}
